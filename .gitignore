@@ -1,0 +1,25 @@
+# Local credentials and runtime files
+config.ini
+config.*.ini
+*.log
+*.log.*
+*.state
+.env
+.env.*
+# Python and build output
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+build/
+dist/
+dist_release/
+dist_share/
+*.exe
+*.zip
+*.bak*
+# Editors
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
